@@ -25,7 +25,7 @@ The dataset provides various insights about gym members of a particular gym. In 
 - Created interactive dashboard based on pivot tables
 
 ## Dashboard
-![Screenshot]([https://raw.githubusercontent.com/mmaloleee/Gym_Members_Dashboard/refs/heads/main/dashboard.png?raw=true](https://github.com/mmalolee/Gym_Members_Dashboard/blob/main/dashboard.png))
+![Screenshot](https://raw.githubusercontent.com/mmaloleee/Gym_Members_Dashboard/refs/heads/main/dashboard.png?raw=true](https://github.com/mmalolee/Gym_Members_Dashboard/blob/main/dashboard.png)
 
 ## Conclusions
 - Men drink more water on average than women. There are no significant diferences in the age overview.
